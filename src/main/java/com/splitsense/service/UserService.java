@@ -1,4 +1,4 @@
-﻿package com.splitsense.service;
+package com.splitsense.service;
 
 import com.splitsense.domain.entity.User;
 import com.splitsense.dto.request.UserRequest;

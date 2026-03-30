@@ -1,4 +1,4 @@
-﻿package com.splitsense.config;
+package com.splitsense.config;
 
 import com.splitsense.security.JwtAuthenticationFilter;
 import java.util.List;

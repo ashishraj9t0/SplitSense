@@ -1,4 +1,4 @@
-﻿package com.splitsense.security;
+package com.splitsense.security;
 
 import io.jsonwebtoken.Claims;
 import io.jsonwebtoken.Jwts;

@@ -1,4 +1,4 @@
-﻿package com.splitsense.dto.response;
+package com.splitsense.dto.response;
 
 public class UserResponse {
     private Long id;
