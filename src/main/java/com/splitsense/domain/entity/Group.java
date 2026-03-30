@@ -18,6 +18,7 @@ public class Group {
     @ManyToMany
     @JoinTable(
         name = "group_members",
+        schema = "splitsense",
         joinColumns = @JoinColumn(name = "group_id"),
         inverseJoinColumns = @JoinColumn(name = "user_id")
     )
