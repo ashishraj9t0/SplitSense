@@ -8,10 +8,6 @@ import com.splitsense.dto.response.UserResponse;
 import com.splitsense.repository.EmailOtpRepository;
 import com.splitsense.repository.UserRepository;
 import com.splitsense.security.JwtTokenProvider;
-import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.mail.MailException;
-import org.springframework.mail.SimpleMailMessage;
-import org.springframework.mail.javamail.JavaMailSender;
 import org.springframework.security.crypto.password.PasswordEncoder;
 import org.springframework.stereotype.Service;
 
