@@ -46,8 +46,6 @@ spring:
 
 # Server Configuration
 server:
-  tomcat:
-    basedir: C:/temp
   port: 8080
   servlet:
     context-path:
